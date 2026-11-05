@@ -1,0 +1,188 @@
+{
+  "family": "Bosch ME9",
+  "slug": "bosch-me9",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-me9-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 110,
+  "brands": {
+    "BMW": [
+      "ME9",
+      "ME9.0",
+      "ME9.0001",
+      "ME9.1",
+      "ME9.2",
+      "ME9.2.0",
+      "ME9.2.2",
+      "ME9.4",
+      "ME9.6",
+      "ME9.8",
+      "ME9.X"
+    ],
+    "MINI": [
+      "ME9",
+      "ME9.0",
+      "ME9.1",
+      "ME9.2",
+      "ME9.2.2",
+      "ME9.4",
+      "ME9.6",
+      "ME9.8",
+      "ME9.X"
+    ],
+    "FIAT": [
+      "ME9.1"
+    ],
+    "ALFA ROMEO": [
+      "ME9.1"
+    ],
+    "LANCIA": [
+      "ME9.1"
+    ],
+    "JEEP": [
+      "ME9.1"
+    ],
+    "ABARTH": [
+      "ME9.1",
+      "ME9.7.10"
+    ],
+    "CHRYSLER": [
+      "ME9.1"
+    ],
+    "RAM": [
+      "ME9.1"
+    ],
+    "FORD": [
+      "ME9",
+      "ME9.0",
+      "ME9.0C",
+      "ME9.0_CAN"
+    ],
+    "MERCEDES-BENZ": [
+      "ME9",
+      "ME9.7"
+    ],
+    "SMART": [
+      "ME9",
+      "ME9.7"
+    ],
+    "MAYBACH": [
+      "ME9",
+      "ME9.7"
+    ],
+    "OPEL": [
+      "ME9",
+      "ME9.1",
+      "ME9.5",
+      "ME9.6",
+      "ME9.6.1"
+    ],
+    "CHEVROLET": [
+      "ME9",
+      "ME9.1-9.5",
+      "ME9.5",
+      "ME9.6",
+      "ME9.6.1"
+    ],
+    "VAUXHALL": [
+      "ME9",
+      "ME9.1",
+      "ME9.5",
+      "ME9.6",
+      "ME9.6.1"
+    ],
+    "PEUGEOT": [
+      "ME9.0C"
+    ],
+    "CITROËN": [
+      "ME9.0C",
+      "ME9.7.5"
+    ],
+    "RENAULT": [
+      "ME9.0C"
+    ],
+    "DACIA": [
+      "ME9.0C"
+    ],
+    "NISSAN": [
+      "ME9.0C"
+    ],
+    "INFINITI": [
+      "ME9.0C"
+    ],
+    "ALPINE": [
+      "ME9.0C"
+    ],
+    "VOLKSWAGEN": [
+      "ME9",
+      "ME9.0001",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.5.1",
+      "ME9.7"
+    ],
+    "AUDI": [
+      "ME9",
+      "ME9.0001",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.7"
+    ],
+    "SEAT": [
+      "ME9",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.7"
+    ],
+    "SKODA": [
+      "ME9",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.7"
+    ],
+    "CUPRA": [
+      "ME9",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.7"
+    ],
+    "PORSCHE": [
+      "ME9",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.7"
+    ],
+    "LAMBORGHINI": [
+      "ME9",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.7"
+    ],
+    "BENTLEY": [
+      "ME9",
+      "ME9.1",
+      "ME9.1.1",
+      "ME9.5",
+      "ME9.7"
+    ],
+    "VOLVO": [
+      "ME9",
+      "ME9.0",
+      "ME9.0C",
+      "ME9.7"
+    ],
+    "SAAB": [
+      "ME9.6"
+    ],
+    "CADILLAC": [
+      "ME9.6"
+    ]
+  }
+}
