@@ -2,8 +2,16 @@
   "family": "Bosch ME9",
   "slug": "bosch-me9",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/bosch-me9-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/bosch-me9-tuning-software",
+    "https://www.davincideluxe.org/bosch-me9-tuning-software",
+    "https://www.davincideluxe.app/bosch-me9-tuning-software",
+    "https://www.davincideluxe.software/bosch-me9-tuning-software",
+    "https://www.davincideluxe.es/bosch-me9-tuning-software",
+    "https://www.davincideluxe.de/bosch-me9-tuning-software",
+    "https://www.davincideluxe.it/bosch-me9-tuning-software",
+    "https://www.aesoftech.eu/bosch-me9-tuning-software"
+  ],
   "matched_variants_count": 110,
   "brands": {
     "BMW": [
