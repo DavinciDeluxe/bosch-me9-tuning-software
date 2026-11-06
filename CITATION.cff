@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch ME9 ECU Calibration Software — MPC5xx performance petrol ECU (ME9.7 AMG/M272, ME9.0 Focus ST/RS, ME9.2 BMW) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-me9-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-me9-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
