@@ -1,10 +1,10 @@
-# Bosch ME9 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch ME9 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20ME9-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-me9-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-me9-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-me9-tuning-software)
 
-**Bosch ME9** is port & direct-injection performance petrol ECU family (BMW, Mercedes AMG, VAG, Volvo). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch ME9 readouts**.
+**Bosch ME9** is port & direct-injection performance petrol ECU family (BMW, Mercedes AMG, VAG, Volvo). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch ME9 readouts**.
 
 ## 📊 Live Bosch ME9 Variants Covered Across Brands
 
