@@ -23,8 +23,8 @@
 | **PORSCHE** | 5 | `ME9`, `ME9.1`, `ME9.1.1`, `ME9.5`, `ME9.7` |
 | **LAMBORGHINI** | 5 | `ME9`, `ME9.1`, `ME9.1.1`, `ME9.5`, `ME9.7` |
 | **BENTLEY** | 5 | `ME9`, `ME9.1`, `ME9.1.1`, `ME9.5`, `ME9.7` |
-| **FORD** | 4 | `ME9`, `ME9.0`, `ME9.0C`, `ME9.0_CAN` |
 | **VOLVO** | 4 | `ME9`, `ME9.0`, `ME9.0C`, `ME9.7` |
+| **FORD** | 3 | `ME9`, `ME9.0`, `ME9.0C` |
 | **ABARTH** | 2 | `ME9.1`, `ME9.7.10` |
 | **MERCEDES-BENZ** | 2 | `ME9`, `ME9.7` |
 | **SMART** | 2 | `ME9`, `ME9.7` |
