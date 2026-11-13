@@ -12,11 +12,12 @@
     "https://www.davincideluxe.it/bosch-me9-tuning-software",
     "https://www.aesoftech.eu/bosch-me9-tuning-software"
   ],
-  "matched_variants_count": 109,
+  "matched_variants_count": 126,
   "brands": {
     "BMW": [
       "ME9",
       "ME9.0",
+      "ME9.000",
       "ME9.0001",
       "ME9.1",
       "ME9.2",
@@ -30,6 +31,8 @@
     "MINI": [
       "ME9",
       "ME9.0",
+      "ME9.000",
+      "ME9.0001",
       "ME9.1",
       "ME9.2",
       "ME9.2.2",
@@ -122,6 +125,7 @@
     ],
     "VOLKSWAGEN": [
       "ME9",
+      "ME9.000",
       "ME9.0001",
       "ME9.1",
       "ME9.1.1",
@@ -131,6 +135,7 @@
     ],
     "AUDI": [
       "ME9",
+      "ME9.000",
       "ME9.0001",
       "ME9.1",
       "ME9.1.1",
@@ -139,6 +144,8 @@
     ],
     "SEAT": [
       "ME9",
+      "ME9.000",
+      "ME9.0001",
       "ME9.1",
       "ME9.1.1",
       "ME9.5",
@@ -146,6 +153,8 @@
     ],
     "SKODA": [
       "ME9",
+      "ME9.000",
+      "ME9.0001",
       "ME9.1",
       "ME9.1.1",
       "ME9.5",
@@ -153,6 +162,8 @@
     ],
     "CUPRA": [
       "ME9",
+      "ME9.000",
+      "ME9.0001",
       "ME9.1",
       "ME9.1.1",
       "ME9.5",
@@ -160,6 +171,8 @@
     ],
     "PORSCHE": [
       "ME9",
+      "ME9.000",
+      "ME9.0001",
       "ME9.1",
       "ME9.1.1",
       "ME9.5",
@@ -167,6 +180,8 @@
     ],
     "LAMBORGHINI": [
       "ME9",
+      "ME9.000",
+      "ME9.0001",
       "ME9.1",
       "ME9.1.1",
       "ME9.5",
@@ -174,6 +189,8 @@
     ],
     "BENTLEY": [
       "ME9",
+      "ME9.000",
+      "ME9.0001",
       "ME9.1",
       "ME9.1.1",
       "ME9.5",
