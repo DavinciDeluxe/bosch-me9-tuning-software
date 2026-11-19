@@ -35,11 +35,11 @@
 | **LANCIA** | 1 | `ME9.1` |
 | **JEEP** | 1 | `ME9.1` |
 | **CHRYSLER** | 1 | `ME9.1` |
-| **RAM** | 1 | `ME9.1` |
 | **PEUGEOT** | 1 | `ME9.0C` |
 | **RENAULT** | 1 | `ME9.0C` |
 | **DACIA** | 1 | `ME9.0C` |
 | **NISSAN** | 1 | `ME9.0C` |
+| **INFINITI** | 1 | `ME9.0C` |
 
 👉 **[Open the full Bosch ME9 guide & test your file free at https://www.davincideluxe.fr/bosch-me9-tuning-software →](https://www.davincideluxe.fr/bosch-me9-tuning-software)**
 
