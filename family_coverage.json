@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-me9-tuning-software",
     "https://www.aesoftech.eu/bosch-me9-tuning-software"
   ],
-  "matched_variants_count": 126,
+  "matched_variants_count": 125,
   "brands": {
     "BMW": [
       "ME9",
@@ -58,9 +58,6 @@
       "ME9.7.10"
     ],
     "CHRYSLER": [
-      "ME9.1"
-    ],
-    "RAM": [
       "ME9.1"
     ],
     "FORD": [
